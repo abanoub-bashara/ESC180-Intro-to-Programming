@@ -1,1 +1,2 @@
 # ESC180-Intro-to-Programming
+This course serveed as an introduction to computer programming and computer science. Introudced Python programming language and used it to solve a variety of problems. Practiced problem-solving techniques that are applicable to computational problems. Discussed good practices in software engineering (designing and building large software systems). Analyzed the efficiency of algorithms, Big O. 
